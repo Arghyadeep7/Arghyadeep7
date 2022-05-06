@@ -16,6 +16,11 @@
 - ⚡ Fun fact: I am an athlete and a footballer and in my spare time you will always find me at the field scoring goals😁⚽
 - If you like my page, do ⭐ it as a favourite and do follow up, I'll follow you back.😄
 
+## My Profiles
+- [Codeforces](https://codeforces.com/profile/Arghya7) - Rated 1000+
+- [CodeChef](https://www.codechef.com/users/arghya7) - Max. rating of 4⭐
+- [LeetCode](https://leetcode.com/arghyadeep7/)
+
 ## Languages
 
   <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="40px" height="40px"></a> 
