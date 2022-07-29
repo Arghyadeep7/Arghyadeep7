@@ -8,7 +8,7 @@
 ## About Me:
 
 - 💻 I am a **full-stack MERN developer as well as a competitive programmer.** A keen learner and a tech enthusiast.
-- 📝 My interests lie in coding, Data Science & ML along with Blockchain.
+- 📝 My interests lie in coding, Data Science & ML.
 - 🌱 Currently learning Data Science 
 - <h4>🔭 Actively looking for internships in the role of SDE or Web Developer</h4>
 - 💻 I am proficient in **Python - C++/C and MERN Stack**
