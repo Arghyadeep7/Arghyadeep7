@@ -8,12 +8,12 @@
 ## About Me:
 
 - 💻 I am a **full-stack MERN developer as well as a competitive programmer.** A keen learner and a tech enthusiast.
-- 📝 My interests lie in coding, AI & Ml along with Blockchain and DevOps.
-- 🌱 Currently learning Blockchain Development 
+- 📝 My interests lie in coding, Data Science & ML along with Blockchain.
+- 🌱 Currently learning Data Science 
 - <h4>🔭 Actively looking for internships in the role of SDE or Web Developer</h4>
 - 💻 I am proficient in **Python - C++/C and MERN Stack**
 - 📙 **Proficient in DSA**
-- ⚡ Fun fact: I am an athlete and a footballer and in my spare time you will always find me at the field scoring goals😁⚽
+- ⚡ Fun fact: I am an athlete and a footballer and in my spare time you will always find me at the field scoring goals⚽
 - If you like my page, do ⭐ it as a favourite and do follow up, I'll follow you back.😄
 
 ## My Profiles
