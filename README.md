@@ -3,7 +3,7 @@
 
 <h4>My Personal website : <a href="https://arghya-deep-pal.vercel.app/">Arghya Deep Pal</a></h4>
 
-**Checkout my resume: <a href="https://drive.google.com/file/d/1jnKac8hB93hYmQNK9JkGf0GxwWVadPzR/view?usp=sharing">Resume</a>**
+**Checkout my resume: <a href="https://drive.google.com/file/d/1T6MJqgM0dzXNdxMZmowaslGF10BuAnSy/view">Resume</a>**
 
 ## About Me:
 
