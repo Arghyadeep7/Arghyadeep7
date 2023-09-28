@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h3>I am Arghya Deep Pal, a Final year student pursuing 🎓CSE at <a href="https://www.heritageit.edu/">Heritage Institute Of Technology, Kolkata</a></h3>
 
-<h4>My Personal website : <a href="https://arghya-deep-pal.vercel.app/">Arghya Deep Pal</a></h4>
+**My Personal website : <a href="https://arghya-deep-pal.vercel.app/">Arghya Deep Pal</a>**
 
 **Checkout my resume: <a href="https://drive.google.com/file/d/16cA23dZrGXebqr3cJe6NPnzbo8mnIquo/view?usp=sharing">Resume</a>**
 
