@@ -3,15 +3,15 @@
 
 **My Personal website : <a href="https://arghya-deep-pal.vercel.app/">Arghya Deep Pal</a>**
 
-**Checkout my resume: <a href="https://drive.google.com/file/d/16cA23dZrGXebqr3cJe6NPnzbo8mnIquo/view?usp=sharing">Resume</a>**
+**Checkout my resume: <a href="https://drive.google.com/file/d/1WxdDf9UvovIBqC-5nAKLX-kxJlSCyY2F/view">Resume</a>**
 
 ## About Me:
 
 - 💻 I am a **full-stack MERN developer as well as a competitive programmer.** A keen learner and a tech enthusiast.
 - 📝 My interests lie in coding, Data Science & ML.
-- 🌱 Currently learning Data Science 
-- <h4>🔭 Actively looking for internships in the role of SDE or Web Developer</h4>
-- 💻 I am proficient in **Python - C++/C and MERN Stack**
+- 🌱 Currently learning Machine Learning 
+- <h4>🔭 Actively looking for internships in the role of SDE or Full Stack Developer</h4>
+- 💻 I am proficient in **C++, C, C#, Java, Jaavascript, Python and MERN Stack**
 - 📙 **Proficient in DSA**
 - ⚡ Fun fact: I am an athlete and a footballer and in my spare time you will always find me at the field scoring goals⚽
 - If you like my page, do ⭐ it as a favourite and do follow up, I'll follow you back.😄
