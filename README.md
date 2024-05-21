@@ -25,6 +25,7 @@
 
   <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="40px" height="40px"></a> 
  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="40px"  height="40px"></a>
+ <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c#.svg" alt="C" width="40px"  height="40px"></a>
  <a href="https://python.org/" title="python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="python" width="40px" height="40px"></a>
  <a href="https://www.java.com/en/" title="java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="java" width="40px" height="40px"></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg"  alt="JavaScript" width="40px" height="40px"></a>
